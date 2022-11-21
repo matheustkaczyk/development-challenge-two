@@ -1,0 +1,6 @@
+[submodule "medcloud-backend"]
+	path = medcloud-backend
+	url = git@github.com:matheustkaczyk/medcloud-backend.git
+[submodule "medcloud-frontend"]
+	path = medcloud-frontend
+	url = git@github.com:matheustkaczyk/medcloud-frontend.git
